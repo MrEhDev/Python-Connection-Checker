@@ -11,7 +11,7 @@ El **Comprobador de Conexión Python** es una aplicación de escritorio simple d
 - Soporta URLs con los protocolos `http` y `https`.
 
 ## Capturas de pantalla 📸
-![Captura de pantalla ingrese url](<Captura de pantalla1.png>) ![Captura de pantalla no accesible](<Captura de pantalla2.png>) ![Captura de pantalla conexión ok](<Captura de pantalla3.png>)
+![Captura de pantalla ingrese url](<images/Captura de pantalla1.png>) ![Captura de pantalla no accesible](<images/Captura de pantalla2.png>) ![Captura de pantalla conexión ok](<images/Captura de pantalla3.png>)
 
 ## Requisitos 🗒️
 
